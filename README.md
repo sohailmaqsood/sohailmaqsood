@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Sohail Maqsood Khan (@sohailmaqsood)
+-    I have rich experience of working with fortune 500 clients on problems of different scale and nature.
+- 🌱 I’m currently upskilling myself in Data Science, Machine Learning, and Analytics.
+- 📫 Write to me at maqsood.sohail95@gmail.com, khansohailmaqsood@gmail.com
